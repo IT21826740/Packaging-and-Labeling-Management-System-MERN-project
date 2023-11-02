@@ -1,0 +1,35 @@
+@media screen {   
+
+.main-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:20px;
+    margin: 15px 10%;
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.card:first-child{
+    background-color:rgb(173, 168, 174);
+}
+.card:nth-child(2){
+    background-color:rgb(173, 168, 174);
+}
+.card:nth-child(3){
+    background-color: rgb(173, 168, 174);
+}
+.card-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-inner > .card_icon{
+    font-size: 25px;
+   
+}
+}
