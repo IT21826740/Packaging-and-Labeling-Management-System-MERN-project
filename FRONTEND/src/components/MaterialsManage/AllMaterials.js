@@ -1,14 +1,11 @@
 
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-//import "../AllMaterials.css";
 import SearchBar from "./MSearchBar"; // Import the SearchBar component
-//iimport {AiFillDelete}from 'react-icons/ai';
 import  "../../Styles/AllMaterial.css";
-//import {BiSolidEdit}from 'react-icons/bi';
 import jsPDF from 'jspdf';
 import 'jspdf-autotable';
-//import Header from "../header";
+
 
 function AllMaterials() {
   const [materials, setMaterials] = useState([]);
