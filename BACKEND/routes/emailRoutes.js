@@ -1,24 +1,3 @@
-/*// backend/routes/emailRoutes.js
-const express = require('express');
-const sendEmail = require('../models/emailSender'); // Import the email sending function
-const router = express.Router();
-
-// Define a route to send emails to the winner
-router.post('/send-winner-email', (req, res) => {
-  const { winnerName, winnerEmail } = req.body;
-
-  if (!winnerName || !winnerEmail) {
-    return res.status(400).json({ message: 'Winner name and email are required.' });
-  }
-
-  // Send the email to the winner
-  sendEmail(winnerName, winnerEmail);
-
-  res.json({ message: 'Email sent to the winner.' });
-});
-
-module.exports = router;*/
-
 
 const express = require('express');
 const sendEmail = require('../models/emailSender'); // Import the email sending function
