@@ -60,15 +60,4 @@ Reports and Record Keeping:
 ![(page 8) Inventory](https://github.com/IT21826740/test-itp/assets/111214065/4fb09b4e-28b7-40e5-b91b-a641ae4b5c84)
 
 
-![Inventory 1](https://github.com/IT21826740/test-itp/assets/111214065/dadd34c7-acfd-4045-9e88-d8f1e4f66344)
-![Inventory 1a](https://github.com/IT21826740/test-itp/assets/111214065/571ba9b0-511f-4dd5-a916-c7dba280159f)
-![Inventory 2](https://github.com/IT21826740/test-itp/assets/111214065/9fa381ee-68f2-4916-a642-de2c1f9dec86)
-![Inventory 2a](https://github.com/IT21826740/test-itp/assets/111214065/ad76e2a9-ea99-48f3-8add-d10f9893315a)
-![Inventory 3](https://github.com/IT21826740/test-itp/assets/111214065/c405a556-7353-483d-9b5d-38f943e3f470)
-![Inventory 4](https://github.com/IT21826740/test-itp/assets/111214065/c1f1639d-431f-48aa-a7e8-d7cf4f309)
-![Reward 1](https://github.com/IT21826740/test-itp/assets/111214065/3ec3f3cb-e8d1-4424-a051-cb47b2a5e1c4)
-![Reward 2](https://github.com/IT21826740/test-itp/assets/111214065/c627de47-9b04-45f9-b5f1-5a9b4ad1f901)
-![Reward 3](https://github.com/IT21826740/test-itp/assets/111214065/3d0440b4-5e11-43f6-ba91-6d457b6dc29e)
-![Reward 4](https://github.com/IT21826740/test-itp/assets/111214065/7d997ee0-229d-4c89-b35c-a8d52072de68)
-![Reward 5](https://github.com/IT21826740/test-itp/assets/111214065/3f40f815-a2de-4467-8b9d-c894df1f06fb)
-
+2ND YR 2ND SEM - ITP PROJECT - USING MERN STACK 
