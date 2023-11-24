@@ -60,16 +60,12 @@ Reports and Record Keeping:
 ![(page 8) Inventory](https://github.com/IT21826740/test-itp/assets/111214065/4fb09b4e-28b7-40e5-b91b-a641ae4b5c84)
 
 
-![Complete Order 1](https://github.com/IT21826740/test-itp/assets/111214065/9ded9e02-c02f-4c11-9fdc-661fe07fd3d1)
-![Complete order 2](https://github.com/IT21826740/test-itp/assets/111214065/8b9a52ad-5437-438f-a666-d85ec49896c2)
 ![Inventory 1](https://github.com/IT21826740/test-itp/assets/111214065/dadd34c7-acfd-4045-9e88-d8f1e4f66344)
 ![Inventory 1a](https://github.com/IT21826740/test-itp/assets/111214065/571ba9b0-511f-4dd5-a916-c7dba280159f)
 ![Inventory 2](https://github.com/IT21826740/test-itp/assets/111214065/9fa381ee-68f2-4916-a642-de2c1f9dec86)
 ![Inventory 2a](https://github.com/IT21826740/test-itp/assets/111214065/ad76e2a9-ea99-48f3-8add-d10f9893315a)
 ![Inventory 3](https://github.com/IT21826740/test-itp/assets/111214065/c405a556-7353-483d-9b5d-38f943e3f470)
-![Inventory 4](https://github.com/IT21826740/test-itp/assets/111214065/c1f1639d-431f-48aa-a7e8-d7cf4f30962c)
-![label gen 1](https://github.com/IT21826740/test-itp/assets/111214065/f6e9e803-a3ca-445e-b1fc-cae0270e6476)
-![label gen 2](https://github.com/IT21826740/test-itp/assets/111214065/b2effb5b-0b22-499f-a85a-2a02996c63ba)
+![Inventory 4](https://github.com/IT21826740/test-itp/assets/111214065/c1f1639d-431f-48aa-a7e8-d7cf4f309)
 ![Reward 1](https://github.com/IT21826740/test-itp/assets/111214065/3ec3f3cb-e8d1-4424-a051-cb47b2a5e1c4)
 ![Reward 2](https://github.com/IT21826740/test-itp/assets/111214065/c627de47-9b04-45f9-b5f1-5a9b4ad1f901)
 ![Reward 3](https://github.com/IT21826740/test-itp/assets/111214065/3d0440b4-5e11-43f6-ba91-6d457b6dc29e)
