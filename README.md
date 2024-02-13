@@ -23,6 +23,7 @@ Export Report:
 Pending Orders List:
  - Sort orders as all, customized, or non-customized.
  - Active 'Delete' button after order completion.
+   
 Complete Order:
  - Navigate to the order fulfillment process page by clicking 'Complete Order'.
  - Display relevant data for the selected order.
