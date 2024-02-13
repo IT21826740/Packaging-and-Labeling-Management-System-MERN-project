@@ -8,11 +8,14 @@ The Packaging and Labeling Management System is an exclusive interface accessibl
 View and Search:
  - Display details of packaging materials.
  - Search for materials by name.
+   
 Edit and Delete:
  - Edit existing material details.
  - Delete materials.
+   
 Add New Items:
  - Intuitively add new packaging materials.
+   
 Export Report:
  - Generate and download a comprehensive report of all packaging materials.
   
