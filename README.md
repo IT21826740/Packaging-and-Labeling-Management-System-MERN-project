@@ -55,6 +55,7 @@ Quantity Highlight:
    
 Weekly Material Lists:
  - Allow weekly printing of material lists.
+   
 Reports and Record Keeping:
  - Upload weekly reports to the database.
  - View past records.
