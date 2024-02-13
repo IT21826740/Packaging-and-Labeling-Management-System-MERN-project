@@ -25,13 +25,16 @@ Complete Order:
  - Display relevant data for the selected order.
   
 ## Labeling and Business Promotion
+
 QR Code Label:
  - Download labels via a QR code.
  - Promote business through a lottery draw.
+   
 Lottery Draw:
  - Display a countdown timer for the lottery draw (30 days, resettable).
  - Google Sheet link for form submissions.
  - Downloadable and uploadable reports at the end of the month.
+   
 Winner Announcement:
  - Select a random winner.
  - Send an email with an amazing picture to the winner.
@@ -42,8 +45,10 @@ Winner Announcement:
 Upload Excel File:
  - Calculate available quantity from an uploaded Excel file.
  - Display uploaded content.
+   
 Quantity Highlight:
  - Highlight raw quantity below 10 for quick attention.
+   
 Weekly Material Lists:
  - Allow weekly printing of material lists.
 Reports and Record Keeping:
